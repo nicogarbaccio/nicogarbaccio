@@ -21,7 +21,7 @@ I'm a full stack developer with a background as an educator. I'll be graduating 
 </div>
 
 ### Some of my recent projects
-- [ExplorED](https://github.com/nicogarbaccio/massclass): A course management app that allows instructors to share materials with students, create discussions, and more.
+- [ExplorED](https://github.com/nicogarbaccio/explored): A course management app that allows instructors to share materials with students, create discussions, and more.
 - [Groovehound](https://github.com/nicogarbaccio/groovehound): A concert tracking website which allows users to easily find upcoming concerts and record the ones they’ve been to.
 - [Quiz It Yourself](https://github.com/nicogarbaccio/trivia-front-end): A customizable trivia app where users can play asynchronously with friends and compete for the top score.
 
