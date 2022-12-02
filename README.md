@@ -8,7 +8,6 @@ I'm a full stack developer with a background as an educator. I've managed and le
 - 😄 Pronouns: he/him
 
 I'm proficient in:
-I'm proficient in:
 ![image](https://user-images.githubusercontent.com/36672915/205330498-f896d8d5-4c21-4a01-bdb1-d3c8e411e7cf.png)
 ![image](https://user-images.githubusercontent.com/36672915/205330558-22cc46ac-c16e-4e18-afca-5c43ff853556.png)
 ![image](https://user-images.githubusercontent.com/36672915/205330573-b46c3ecb-0f51-410c-97be-5a393d4f11b3.png)
