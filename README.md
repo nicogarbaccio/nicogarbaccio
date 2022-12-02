@@ -1,37 +1,31 @@
-### Hey there! I'm Nico! 👋
+## Hey there! I'm Nico! 👋
 
-I'm a full stack developer with a background as an educator. I've managed and led literacy and coding programs for elementary, middle, and high school students. I'm passionate about learning new things and building community.
+I'm a full stack developer with a background as an educator. I'll be graduating the Software Engineering program at Flatiron School on December 9, 2022. I've managed and led literacy and coding programs for elementary, middle, and high school students. I'm passionate about learning new things and building community.
 
 - 🔭 I’m currently working on a class management app that brings together my love of education and coding. 
 - 🌱 I’m currently learning AWS and Python
 - 💬 Ask me about anything New Jersey-related!
 - 😄 Pronouns: he/him
 
-I'm proficient in:
-![image](https://user-images.githubusercontent.com/36672915/205330498-f896d8d5-4c21-4a01-bdb1-d3c8e411e7cf.png)
-![image](https://user-images.githubusercontent.com/36672915/205330558-22cc46ac-c16e-4e18-afca-5c43ff853556.png)
-![image](https://user-images.githubusercontent.com/36672915/205330573-b46c3ecb-0f51-410c-97be-5a393d4f11b3.png)
-![image](https://user-images.githubusercontent.com/36672915/205330648-3cab02bd-1e4e-4982-9f83-cd3c3f242699.png)
-![image](https://user-images.githubusercontent.com/36672915/205330587-f368da43-4362-4f13-a57a-29ed0fe9496e.png)
-![image](https://user-images.githubusercontent.com/36672915/205330606-b0a20c25-6eaa-4208-b9e7-843474d810a6.png)
-![image](https://user-images.githubusercontent.com/36672915/205330679-2e62469f-8400-4cd6-a071-6a8f7b159d58.png)
+### Technology Stack:
+<div>
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp; 
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-plain-wordmark.svg" title="Ruby" alt="Ruby" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain-wordmark.svg" title="Rails" alt="Rails" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind" alt="Tailwind" width="40" height="40"/>&nbsp;
+</div>
 
-📫 How to reach me:
-![image](https://user-images.githubusercontent.com/36672915/205330912-6d1f301b-4262-4128-9105-ce87742c0a8d.png)
-![image](https://user-images.githubusercontent.com/36672915/205330924-94f672fd-e8f6-4b9d-a8ca-87a666e2ccdd.png)
+### Some of my recent projects
+- [ExplorED](https://github.com/nicogarbaccio/massclass): A course management app that allows instructors to share materials with students, create discussions, and more.
+- [Groovehound](https://github.com/nicogarbaccio/groovehound): A concert tracking website which allows users to easily find upcoming concerts and record the ones they’ve been to.
+- [Quiz It Yourself](https://github.com/nicogarbaccio/trivia-front-end): A customizable trivia app where users can play asynchronously with friends and compete for the top score.
 
-
-<!--
-**nicogarbaccio/nicogarbaccio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning AWS
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about anything New Jersey-related!
-- 📫 How to reach me: ...
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
--->
+### 📫 How to reach me
+- [Email](mailto:garbaccio20@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/nicogarbaccio/)
+- [Medium](https://medium.com/@nicogarbaccio)
