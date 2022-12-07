@@ -22,9 +22,8 @@ I'm a full stack developer with a background as an educator. I'll be graduating 
 
 ### Some of my recent projects
 - [ExplorED](https://github.com/nicogarbaccio/explored): A course management app that allows instructors to share materials with students, create discussions, and more.
-- *NOTE: This is my capstone project for Flatiron School, so it is very much a work in progress!*
   - Created with React on the front end and Ruby on Rails on the back end.
-  - Used ActiveStorage to allow instructors to upload materials and students to download them.
+  - Used Rails' ActiveStorage to allow instructors to upload materials and students to download them.
   - Utilized BCrypt for user authentication/authorization for instructors and students.
   - Implemented Tailwind CSS in order to provide a seamless user experience and intuitive visual design.
 
