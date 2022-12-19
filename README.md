@@ -1,6 +1,6 @@
 ## Hey there! I'm Nico! 👋
 
-I'm a full stack developer with a background as an educator. I'll be graduating the Software Engineering program at Flatiron School on December 9, 2022. I've managed and led literacy and coding programs for elementary, middle, and high school students. I'm passionate about learning new things and building community.
+I'm a full stack developer and recent graduate of Flatiron School. In my 6 years as an educator I've managed and led literacy and coding programs for elementary, middle, and high school students. I'm passionate about learning new things and building community.
 
 - 🔭 I’m currently working on a class management app that brings together my love of education and coding. 
 - 🌱 I’m currently learning AWS and Python
