@@ -22,6 +22,7 @@ I'm a full stack developer and recent graduate of Flatiron School. In my 6 years
 
 ### Some of my recent projects
 - [ExplorED](https://github.com/nicogarbaccio/explored): A course management app that allows instructors to share materials with students, create discussions, and more.
+  - [Demo](https://www.loom.com/share/67df69cc249d466ba9c49fd482803dd5)
   - Created with React on the front end and Ruby on Rails on the back end.
   - Used Rails' ActiveStorage to allow instructors to upload materials and students to download them.
   - Utilized BCrypt for user authentication/authorization for instructors and students.
