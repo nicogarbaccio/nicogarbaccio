@@ -1,6 +1,6 @@
 ## Hey there! I'm Nico! 👋
 
-I'm a full stack developer and recent graduate of Flatiron School. In my 6 years as an educator I've managed and led literacy and coding programs for elementary, middle, and high school students. I'm passionate about learning new things and building community.
+I'm a full stack developer and recent graduate of Flatiron School. In my 6 years as an educator I've managed and led literacy and coding programs for elementary, middle, and high school students. I'm a strong collaborator and problem-solver with program management and process-improvement expertise. I'm passionate about learning, teaching, and building community. I'm excited to use my programming skills and my background to create mission-driven products that cultivate community.
 
 - 🔭 I’m currently working on a class management app that brings together my love of education and coding. 
 - 🌱 I’m currently learning AWS and Python
@@ -29,6 +29,7 @@ I'm a full stack developer and recent graduate of Flatiron School. In my 6 years
   - Implemented Tailwind CSS in order to provide a seamless user experience and intuitive visual design.
 
 - [Groovehound](https://github.com/nicogarbaccio/groovehound): A concert tracking website which allows users to easily find upcoming concerts and record the ones they’ve been to.
+- [Demo](https://www.loom.com/share/98d9737320164a4db5673c7f81a60d64)
   - Created with React on the front end and Ruby on Rails on the back end.
   - Customized a database schema built with the MVC pattern in Ruby on Rails to simulate the experience of viewing real-life upcoming concerts.
   - Utilized BCrypt for user authentication/authorization in order to ensure safe and secure login.
