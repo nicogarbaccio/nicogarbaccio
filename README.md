@@ -21,20 +21,20 @@ I'm a full stack developer and recent graduate of Flatiron School. In my 6 years
 </div>
 
 ### Some of my recent projects
-[ExplorED](https://github.com/nicogarbaccio/explored): A course management app that allows instructors to share materials with students, create discussions, and more.  
+🏫 [ExplorED](https://github.com/nicogarbaccio/explored): A course management app that allows instructors to share materials with students, create discussions, and more.  
 - [Live Site](https://explored.onrender.com) | [Demo](https://www.loom.com/share/0b81230dc71c418d9f5ee9cdedb95287)
   - Created with React on the front end and Ruby on Rails on the back end.
   - Used Rails' ActiveStorage to allow instructors to upload materials and students to download them.
   - Utilized BCrypt for user authentication/authorization for instructors and students.
   - Implemented Tailwind CSS in order to provide a seamless user experience and intuitive visual design.
 
-[Groovehound](https://github.com/nicogarbaccio/groovehound): A concert tracking website which allows users to easily find upcoming concerts and record the ones they’ve been to.
+🎶 [Groovehound](https://github.com/nicogarbaccio/groovehound): A concert tracking website which allows users to easily find upcoming concerts and record the ones they’ve been to.
 - [Demo](https://www.loom.com/share/98d9737320164a4db5673c7f81a60d64)
   - Created with React on the front end and Ruby on Rails on the back end.
   - Customized a database schema built with the MVC pattern in Ruby on Rails to simulate the experience of viewing real-life upcoming concerts.
   - Utilized BCrypt for user authentication/authorization in order to ensure safe and secure login.
 
-[Quiz It Yourself](https://github.com/nicogarbaccio/trivia-front-end): A customizable trivia app where users can play asynchronously with friends and compete for the top score.
+🧠 [Quiz It Yourself](https://github.com/nicogarbaccio/trivia-front-end): A customizable trivia app where users can play asynchronously with friends and compete for the top score.
   - Created with React on the front end and Sinatra on the back end.
   - Integrated customizable trivia data using Sinatra.
   - Built fully functioning game logic using JavaScript.
