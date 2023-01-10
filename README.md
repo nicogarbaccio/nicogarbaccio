@@ -4,7 +4,7 @@ I'm a full stack developer and recent graduate of Flatiron School. In my 6 years
 
 - 🔭 I’m currently working on a class management app that brings together my love of education and coding. 
 - 🌱 I’m currently learning AWS and Python
-- 💬 Ask me about anything New Jersey-related!
+- 💬 Ask me about weird New Jersey lore 
 - 😄 Pronouns: he/him
 
 ### Technology Stack:
