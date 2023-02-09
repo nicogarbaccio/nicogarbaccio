@@ -1,9 +1,9 @@
 ## Hey there! I'm Nico! 👋
 
-I'm a full stack developer and recent graduate of Flatiron School. In my 6 years as an educator I've designed and managed successful youth literacy and technology programs. I'm a strong collaborator and problem-solver with program management and process-improvement expertise. I'm passionate about learning, and teaching; I'm quick to pick up new technologies and programming languages, and have a knack for explaining technical concepts to non-technical audiences.
+I'm a full stack developer and recent graduate of Flatiron School. In my 6 years working in nonprofit education I've designed and managed successful youth literacy and technology programs. I'm a strong collaborator and problem-solver with program management and process-improvement expertise. I'm passionate about community, learning and teaching. I'm quick to pick up new technologies and programming languages, and have a knack for explaining technical concepts to non-technical audiences. I’m excited to join a team where I can continue to learn and grow while building creative and innovative products. 
 
 - 🔭 I’m currently building a live messaging app (essentially a lightweight Slack clone) to then be incorporated into ExplorED, my e-learning app.  
-- 🌱 I’m currently learning AWS and Python
+- 🌱 I’m currently diving deeper into learning SQL as well as learning AWS and Python
 - 💬 Talk to me about hockey, video games, Jeopardy, and weird New Jersey lore
 - 😄 Pronouns: he/him
 
