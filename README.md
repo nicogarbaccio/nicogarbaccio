@@ -1,10 +1,10 @@
 ## Hey there! I'm Nico! 👋
 
-I'm a full stack developer and recent graduate of Flatiron School. In my 6 years as an educator I've managed and led literacy and coding programs for elementary, middle, and high school students. I'm a strong collaborator and problem-solver with program management and process-improvement expertise. I'm passionate about learning, teaching, and building community. I'm excited to use my programming skills and my background to create mission-driven products that cultivate community.
+I'm a full stack developer and recent graduate of Flatiron School. In my 6 years as an educator I've designed and managed successful youth literacy and technology programs. I'm a strong collaborator and problem-solver with program management and process-improvement expertise. I'm passionate about learning, and teaching; I'm quick to pick up new technologies and programming languages, and have a knack for explaining technical concepts to non-technical audiences.
 
-- 🔭 I’m currently working on a class management app that brings together my love of education and coding. 
+- 🔭 I’m currently building a live messaging app (essentially a lightweight Slack clone) to then be incorporated into ExplorED, my e-learning app.  
 - 🌱 I’m currently learning AWS and Python
-- 💬 Ask me about weird New Jersey lore 
+- 💬 Talk to me about hockey, video games, Jeopardy, and weird New Jersey lore
 - 😄 Pronouns: he/him
 
 ### Technology Stack:
@@ -21,7 +21,7 @@ I'm a full stack developer and recent graduate of Flatiron School. In my 6 years
 </div>
 
 ### Some of my recent projects
-🏫 [ExplorED](https://github.com/nicogarbaccio/explored): A course management app that allows instructors to share materials with students, create discussions, and more.  
+🏫 [ExplorED](https://github.com/nicogarbaccio/explored): An e-learning app that allows instructors to share materials with students, create discussions, and more.  
 - [Live Site](https://explored.onrender.com) | [Demo](https://www.loom.com/share/8da5fe90c42d495d924c220ce23c1f81)
   - Created with React on the front end and Ruby on Rails on the back end.
   - Used Rails' ActiveStorage to allow instructors to upload materials and students to download them.
