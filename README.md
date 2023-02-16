@@ -18,6 +18,7 @@ I'm a full stack developer and recent graduate of Flatiron School. Before pivoti
 <img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain-wordmark.svg" title="Rails" alt="Rails" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind" alt="Tailwind" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height ="40"/>&nbsp;
 </div>
 
 ### Some of my recent projects
