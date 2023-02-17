@@ -28,7 +28,7 @@ Slouch is a single-page, lightweight version of the messaging app Slack. I built
 
 ### 🏫 [ExplorED](https://github.com/nicogarbaccio/explored)
 ### An e-learning app that lets instructors and students share materials, create discussions, and more
-[Live Site](https://explored.onrender.com) | [Demo](https://www.loom.com/share/8da5fe90c42d495d924c220ce23c1f81)\
+#### [Live Site](https://explored.onrender.com) | [Demo](https://www.loom.com/share/8da5fe90c42d495d924c220ce23c1f81)
 ExplorED is an e-learning app that that makes it easy for instructors to share materials, create discussions, and more with students. I built this app for my capstone project at Flatiron School. Having a background in education and having used multiple platforms as a teacher and as a student, this is something I've wanted to build for a while. I built it solo and from scratch, so I'm pretty proud of it! It's got a React front end and a Rails back end. I customized a database schema using Postgres and implemented the MVC pattern in Ruby on Rails, which made the app scalable and efficient. To allow for file management, I integrated ActiveStorage, which enables instructors to upload materials and students to download them. For user authentication, I utilized BCrypt, which allows for different levels of authorization for instructors and student. And finally, I styled the app using Tailwind CSS, which makes it look great and easy to navigate (I especially love how the dropdown came out). 
 
 ### 🎶 [Groovehound](https://github.com/nicogarbaccio/groovehound) 
