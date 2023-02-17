@@ -38,6 +38,4 @@ ExplorED is an e-learning app that that makes it easy for instructors to share m
 Groovehound is a concert tracking website which allows users to easily find upcoming concerts and keep a record of the ones they've been to. It's got a React front end and a Rails back end. This was my first project built on Rails and PostgreSQL, and it really showed me the power of Rails associations, BCrypt, and building reusable components. My teammates and I built the database using PostgreSQL, which made it easy to create and store data about users, bands, concerts, and venues (and we had a lot of it). My favorite feature that I built is the For You feature, which utilizes the data to show upcoming concerts in the state and/or city that the user lives in and matches with genres or bands the user likes. It also allows the user to explore all upcoming concerts outside of their city and state. 
 
 ## 📫 How to reach me
-[Email](mailto:garbaccio20@gmail.com)\
-[LinkedIn](https://www.linkedin.com/in/nicogarbaccio/)\
-[Medium](https://medium.com/@nicogarbaccio)
+### [Email](mailto:garbaccio20@gmail.com) | [LinkedIn](https://www.linkedin.com/in/nicogarbaccio/) | [Medium](https://medium.com/@nicogarbaccio)
