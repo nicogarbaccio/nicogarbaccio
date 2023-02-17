@@ -1,4 +1,4 @@
-#1 Hey there! I'm Nico! 👋
+# Hey there! I'm Nico! 👋
 
 I'm a full stack developer and recent graduate of Flatiron School. Before pivoting to the tech world I spent 6 years in the nonprofit education space, designing and managing successful youth literacy and technology programs. I'm a strong collaborator and problem-solver with program management and process-improvement expertise. I'm passionate about community, learning and teaching. I'm quick to pick up new technologies and programming languages, and have a knack for explaining technical concepts to non-technical audiences. I’m excited to join a team where I can continue to learn and grow while building creative and innovative products. 
 
