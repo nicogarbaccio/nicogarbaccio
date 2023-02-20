@@ -23,7 +23,7 @@ I'm a full stack developer and recent graduate of Flatiron School. Before pivoti
 
 ## Some of my recent projects
 
-### 🏠 [Stay Awhile](https://github.com/nicogarbaccio/slouch) 
+### 🏠 [Stay Awhile](https://github.com/nicogarbaccio/homeaway) 
 ### An online marketplace for short-term home rentals inspired by Airbnb
 #### [Live Site](https://homeaway-seven.vercel.app/) | [Demo](https://www.loom.com/share/7a7cd15d7bae418ab06e0de325071ae5)
 Stay Awhile is an online marketplace for short-term home rentals – essentially a clone of Airbnb. It's got a Next.js/React front end, and for data I leveraged Next.js to implement routing and server-side rendering, and building this app really showed me how powerful Next.js is. To render user search results on a dynamic map, I use MapBox and React state. I'm really happy with the look and functionality of my maps. The page is styled with Tailwind CSS, which made it really easy to make the app look like the real Airbnb! It's deployed on Vercel.
