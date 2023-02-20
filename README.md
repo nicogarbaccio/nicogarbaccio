@@ -22,15 +22,21 @@ I'm a full stack developer and recent graduate of Flatiron School. Before pivoti
 </div>
 
 ## Some of my recent projects
-### 💬 [Slouch](https://github.com/nicogarbaccio/slouch) 
-### A single-page, lightweight version of the messaging app Slack 
-#### [Live Site](https://slouch-dd087.web.app/)
-Slouch is a single-page, lightweight version of the messaging app Slack. I built the front end with React and Redux, while the backend is powered by     Firebase, where it's also deployed. While I knew React already, I wanted to use new libraries while I built this, and doing so really showed me the power of Redux and Firebase (and Firebase hooks), as well as how easy styling becomes with Styled Components. I took advantage of Firebase hooks to support channel creation and provide Google authentication, which makes logging in unbelievably easy, quick, and secure. Redux fit in perfectly with the app, allowing users to seamlessly move from channel to channel. Last but not least, Styled Components and Material UI were used to create a sleek user interface that looks pretty close to the real Slack. While this is still a work in progress (I'm currently working on implementing DMs and the ability to send images), I'm really happy with how clean and easy to read this code is, and how much is going on in a very manageable amount of lines of code. 
+
+### 🏠 [Stay Awhile](https://github.com/nicogarbaccio/slouch) 
+### An online marketplace for short-term home rentals inspired by Airbnb
+#### [Live Site](https://homeaway-seven.vercel.app/) | [Demo](https://www.loom.com/share/7a7cd15d7bae418ab06e0de325071ae5)
+Stay Awhile is an online marketplace for short-term home rentals – essentially a clone of Airbnb. It's got a Next.js/React front end, and for data I leveraged Next.js to implement routing and server-side rendering, and building this app really showed me how powerful Next.js is. To render user search results on a dynamic map, I use MapBox and React state. I'm really happy with the look and functionality of my maps. The page is styled with Tailwind CSS, which made it really easy to make the app look like the real Airbnb! It's deployed on Vercel.
 
 ### 🏫 [ExplorED](https://github.com/nicogarbaccio/explored)
 ### An e-learning app that lets instructors and students share materials, create discussions, and more
 #### [Live Site](https://explored.onrender.com) | [Demo](https://www.loom.com/share/8da5fe90c42d495d924c220ce23c1f81)
 ExplorED is an e-learning app that that makes it easy for instructors to share materials, create discussions, and more with students. I built this app for my capstone project at Flatiron School. Having a background in education and having used multiple platforms as a teacher and as a student, this is something I've wanted to build for a while. I built it solo and from scratch, so I'm pretty proud of it! It's got a React front end and a Rails back end. I customized a database schema using Postgres and implemented the MVC pattern in Ruby on Rails, which made the app scalable and efficient. To allow for file management, I integrated ActiveStorage, which enables instructors to upload materials and students to download them. For user authentication, I utilized BCrypt, which allows for different levels of authorization for instructors and student. And finally, I styled the app using Tailwind CSS, which makes it look great and easy to navigate (I especially love how the dropdown came out). 
+
+### 💬 [Slouch](https://github.com/nicogarbaccio/slouch) 
+### A single-page, lightweight version of the messaging app Slack 
+#### [Live Site](https://slouch-e6459.web.app/)
+Slouch is a single-page, lightweight version of the messaging app Slack. I built the front end with React and Redux, while the backend is powered by     Firebase, where it's also deployed. While I knew React already, I wanted to use new libraries while I built this, and doing so really showed me the power of Redux and Firebase (and Firebase hooks), as well as how easy styling becomes with Styled Components. I took advantage of Firebase hooks to support channel creation and provide Google authentication, which makes logging in unbelievably easy, quick, and secure. Redux fit in perfectly with the app, allowing users to seamlessly move from channel to channel. Last but not least, Styled Components and Material UI were used to create a sleek user interface that looks pretty close to the real Slack. While this is still a work in progress (I'm currently working on implementing DMs and the ability to send images), I'm really happy with how clean and easy to read this code is, and how much is going on in a very manageable amount of lines of code. 
 
 ### 🎶 [Groovehound](https://github.com/nicogarbaccio/groovehound) 
 ### A concert tracker that lets users find upcoming concerts and keep track of the ones they've been to
