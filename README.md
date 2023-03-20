@@ -7,7 +7,7 @@ I'm a full stack developer, educator, curriculum developer, and program manager.
 - 💬 Talk to me about hockey, video games, Jeopardy, and weird New Jersey lore.
 - 😄 Pronouns: he/him
 
-### 💻 [Check out my portfolio website!](https://portfolio-dnj3s4hof-nicogarbaccio.vercel.app/)
+### 💻 [Check out my portfolio website!](https://portfolio-mdw240qgt-nicogarbaccio.vercel.app/)
 
 ## Technology Stack:
 <div>
