@@ -1,6 +1,6 @@
 # Hey there! I'm Nico! 👋
 
-I'm a full stack engineer, educator, and program manager currently working as a QA Engineer. I graduated from Flatiron School's full stack program in December 2022. Additionally, I have six years of professional experience in education, designing and managing successful youth literacy and technology programs for nonprofit organizations. I'm a strong collaborator and problem-solver with program management and process-improvement expertise, and I'm passionate about community, learning and teaching.
+I'm a software engineer, educator, and program manager currently working as a QA Engineer. In addition, I do some freelance work for a nonprofit organization called Code Nation, building lessons, projects, and tools for students and staff. I graduated from Flatiron School's full stack program in December 2022 and have a background of six years as an educator. I'm passionate about community, learning, and teaching.
 
 - 🔭 I’m currently building an ecommerce app for a friend's business. I'm also working on building some new tools for Code Nation staff and students.
 - 🌱 I’m currently learning Python and leveling up my testing knowledge. 
