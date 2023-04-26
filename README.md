@@ -1,12 +1,10 @@
 # Hey there! I'm Nico! 👋
 
-I'm a full stack developer, educator, curriculum developer, and program manager. I graduated from Flatiron School's full stack engineering program in December 2022. Additionally, I have six years of professional experience in education, designing and managing successful youth literacy and technology programs for nonprofit organizations. I'm a strong collaborator and problem-solver with program management and process-improvement expertise. I'm passionate about community, learning and teaching. I'm quick to pick up new technologies and programming languages, and have a knack for explaining technical concepts to non-technical audiences. I'm excited to bring my skills and energy to a new role in the tech space where I can learn, grow, and collaborate with others to develop engaging and impactful products.
+I'm a full stack engineer, educator, and program manager currently working as a QA Engineer. I graduated from Flatiron School's full stack program in December 2022. Additionally, I have six years of professional experience in education, designing and managing successful youth literacy and technology programs for nonprofit organizations. I'm a strong collaborator and problem-solver with program management and process-improvement expertise, and I'm passionate about community, learning and teaching.
 
-- 🔭 I’m currently building 2 apps, one a passion project and the other for work:
-  - Passion Project: A competitive trivia app powered by openAI
-  - Work: An interactive browser-based coding environment for students to document, test, and share code before running it
-- 🌱 I’m currently learning Python
-- 💬 Talk to me about hockey, video games, Jeopardy, and weird New Jersey lore.
+- 🔭 I’m currently building an ecommerce app for a friend's business. I'm also working on building some new tools for Code Nation staff and students.
+- 🌱 I’m currently learning Python and leveling up my testing knowledge. 
+- 💬 Talk to me about hockey, football, video games, Jeopardy, and weird New Jersey lore.
 - 😄 Pronouns: he/him
 
 ### 💻 [Check out my portfolio website!](https://portfolio-nicogarbaccio.vercel.app/)
