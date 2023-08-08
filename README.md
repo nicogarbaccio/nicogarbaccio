@@ -2,11 +2,6 @@
 
 I'm a software engineer and educator, working as a QA Engineer at Thinx. I love solving complex problems, and few things make me as happy as bug-free code. I graduated from Flatiron School's full stack software engineering program in December 2022, and have a background of six years in the world of nonprofit education. I'm passionate about community, learning, and teaching.
 
-- 🔭 I’m currently building an ecommerce app for a friend's business.
-- 🌱 I’m currently learning TypeScript and leveling up my testing knowledge. 
-- 💬 Talk to me about video games, hockey, football, Jeopardy, or your favorite NYC restaurants. 
-- 😄 Pronouns: he/him
-
 ### 💻 [Check out my portfolio website!](https://portfolio-nicogarbaccio.vercel.app/)
 
 ## Technology Stack:
@@ -29,7 +24,7 @@ I'm a software engineer and educator, working as a QA Engineer at Thinx. I love 
 ### 🏠 [Stay Awhile](https://github.com/nicogarbaccio/stay-awhile) 
 ### An online marketplace for short-term home rentals inspired by Airbnb
 #### [Live Site](https://stay-awhile.vercel.app/) | [Demo]()
-Stay Awhile is an online marketplace for short-term home rentals – essentially a re-skinned Airbnb. It's got a Next.js/React front end, and for data I leveraged Next.js 13 to implement routing, server-side rendering, and error handling. TypeScript was utilized to ensure strict typing of data models, API routes, and React components for more robust and maintainable code. I implemented client-side form validation using react-hook-form, server error handling using react-toast, and calendars with react-date-range. I also incorporated maps via React Leaflet, and used Prisma to define and generate the database schema. Fetched data was directly accessed from MongoDB database through server-side React components. The app also has a booking and reservation system with guest and owner reservation cancellation, property creation and deletion, and pricing calculation. The advanced search algorithm filters out properties that have a reservation in the user's desired date range, and a favorites system allows users to easily save and share their preferred properties with others.The page is fully responsive and was styled with Tailwind CSS, which made it really easy to make the app look like the real Airbnb! It's deployed on Vercel.
+Stay Awhile is an online marketplace for short-term home rentals – essentially a re-skinned Airbnb. It's got a Next.js/React front end, and for data I leveraged Next.js 13 to implement routing, server-side rendering, and error handling. TypeScript was utilized to ensure strict typing of data models, API routes, and React components for more robust and maintainable code. I implemented client-side form validation using react-hook-form, server error handling using react-toast, and calendars with react-date-range. I also incorporated maps via React Leaflet, and used Prisma to define and generate the database schema. Fetched data was directly accessed from MongoDB database through server-side React components. The app also has a booking and reservation system with guest and owner reservation cancellation, property creation and deletion, and pricing calculation. The advanced search algorithm filters out properties that have a reservation in the user's desired date range, and a favorites system allows users to easily save and share their preferred properties with others. The page is fully responsive and was styled with Tailwind CSS, which made it really easy to make the app look like the real Airbnb! It's deployed on Vercel.
 
 ### 🏫 [ExplorED](https://github.com/nicogarbaccio/explored)
 ### An e-learning app that lets instructors and students share materials, create discussions, and more
