@@ -1,6 +1,6 @@
 # Hey there! I'm Nico! 👋
 
-I'm a software engineer and educator, working as a QA Engineer at Thinx. I love solving complex problems, and few things make me as happy as bug-free code. I graduated from Flatiron School's full stack software engineering program in December 2022, and have a background of six years in the world of nonprofit education. I'm passionate about community, learning, and teaching.
+I'm a software engineer and educator, working as a QA Engineer at Thinx. I love solving complex problems, and few things make me as happy as bug-free code. I graduated from Flatiron School's full stack software engineering program in December 2022, and have a background of six years in the world of nonprofit education. I'm passionate about community, learning, and teaching. Also my cat, Willa.
 
 ### 💻 [Check out my portfolio website!](https://portfolio-nicogarbaccio.vercel.app/)
 
