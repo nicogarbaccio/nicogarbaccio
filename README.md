@@ -1,6 +1,6 @@
 # Hey there! I'm Nico! 👋
 
-I'm a software engineer and educator, working as a QA Engineer at Thinx. I love solving complex problems, and few things make me as happy as bug-free code. I graduated from Flatiron School's full stack software engineering program in December 2022, and have a background of six years in the world of nonprofit education. I'm passionate about community, learning, and teaching. Also my cat, Willa.
+I’m a dedicated QA and software engineer with a proven track record in ensuring software quality through a blend of manual testing and automation. I approach testing and development with a holistic perspective, striving for seamless user experiences. My background includes experience in teaching, curriculum development, community engagement, and program management. I'm passionate about fostering community and cultivating a culture of continuous learning and innovation, wherever I may be. If you're committed to building teams that turn ideas into impactful solutions, let's connect!
 
 ## Technology Stack:
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,py,ruby,rails,mongodb,postgres,prisma,vercel,tailwind,postman,figma)](https://skillicons.dev)
@@ -10,12 +10,13 @@ I'm a software engineer and educator, working as a QA Engineer at Thinx. I love 
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp; 
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-plain-wordmark.svg" title="Ruby" alt="Ruby" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain-wordmark.svg" title="Rails" alt="Rails" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/icons/express/express-original.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Nodejs" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" width="40" height ="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind" alt="Tailwind" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height ="40"/>&nbsp; -->
+  
 </div>
 
 ## Some of my recent projects
