@@ -10,8 +10,8 @@ I’m a dedicated QA and software engineer with a proven track record in ensurin
 ## Some of my recent personal projects
 
 ### 🏨 [LetMeBook](https://github.com/nicogarbaccio/hotel-booking-app) | A hotel-booking platform inspired by Booking.com
-#### [Live Site](https://letmebook.onrender.com/)
 LetMeBook is a full-stack hotel booking app using the MERN stack. The frontend is powered by Vite and is written entirely in TypeScript. The backend is fueled by Express and Node.js, while MongoDB is used for the database. Additionally, the app features a comprehensive suite of end-to-end tests written in Playwright, covering everything from authentication to booking a hotel, ensuring rock-solid reliability and a seamless user experience.
+#### [Live Site](https://letmebook.onrender.com/)
 
 ## How to reach me
 #### 📫  Drop me an [email](mailto:garbaccio20@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/nicogarbaccio/)
