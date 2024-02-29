@@ -3,7 +3,7 @@
 I’m a dedicated QA and software engineer with a proven track record in ensuring software quality through a blend of manual testing and automation. I approach testing and development with a holistic perspective, striving for seamless user experiences. My background includes experience in teaching, curriculum development, community engagement, and program management. I'm passionate about fostering community and cultivating a culture of continuous learning and innovation, wherever I may be. If you're committed to building teams that turn ideas into impactful solutions, let's connect!
 
 ## Technology Stack:
-[![My Skills](https://skillicons.dev/icons?i=js,ts,py,react,nextjs,vite,nodejs,express,mongodb,postgres,mysql,selenium,postman,tailwind,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,py,react,nextjs,vite,nodejs,express,mongodb,postgres,mysql,cypress,selenium,postman,tailwind,figma&perline=8)](https://skillicons.dev)
 <div>
 </div>
 
