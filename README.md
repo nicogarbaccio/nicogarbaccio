@@ -10,7 +10,9 @@ I’m a dedicated QA and software engineer with a proven track record in ensurin
 ## Some of my recent personal projects
 
 ### 🖊️ [Buggin' Out](https://github.com/nicogarbaccio/buggin-out) // My personal QA blog!
-Buggin' Out is my personal blog about QA engineering. I talk about my processes when it comes to manual QA and writing automated tests for both my own apps (such as this very blog) and popular websites. I share resources (such as templates for manual QA), give tutorials, and more! At least, that's the plan for this blog. 
+Buggin' Out is my personal blog about QA engineering, that I built from scratch using the MERN stack. The frontend is powered by Vite and is written in JavaScript. The backend is powered by Express and Node.js, while MongoDB is used for the database. The blog features a robust suite of Cypress end-to-end tests, covering everything from authentication to creating, editing, and deleting a post. 
+
+In this blog, I talk about my processes when it comes to manual QA and creating automated tests for both my own apps (such as this very blog) and popular websites. I share resources (such as templates for manual QA), give tutorials, and more! At least, that's the plan. 
 #### [Live Site](https://buggin-out.onrender.com/)
 **Note: The site is deployed on Render, so it may take a minute to spin up, as it sometimes needs to rebuild.** 
 
