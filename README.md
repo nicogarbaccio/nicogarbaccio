@@ -9,6 +9,11 @@ I’m a dedicated QA and software engineer with a proven track record in ensurin
 
 ## Some of my recent personal projects
 
+### 🖊️ [Buggin' Out](https://github.com/nicogarbaccio/buggin-out) // My personal QA blog!
+Buggin' Out is my personal blog about QA engineering. I talk about my processes when it comes to manual QA and writing automated tests for both my own apps (such as this very blog) and popular websites. I share resources (such as templates for manual QA), give tutorials, and more! At least, that's the plan for this blog. 
+#### [Live Site](https://buggin-out.onrender.com/)
+**Note: The site is deployed on Render, so it may take a minute to spin up, as it sometimes needs to rebuild.** 
+
 ### 🏨 [LetMeBook](https://github.com/nicogarbaccio/hotel-booking-app) // A hotel-booking platform inspired by Booking.com
 LetMeBook is a full-stack hotel booking app using the MERN stack. The frontend is powered by Vite and is written entirely in TypeScript. The backend is fueled by Express and Node.js, while MongoDB is used for the database. Additionally, the app features a comprehensive suite of end-to-end tests written in Playwright, covering everything from authentication to booking a hotel, ensuring rock-solid reliability and a seamless user experience.
 #### [Live Site](https://letmebook.onrender.com/)
