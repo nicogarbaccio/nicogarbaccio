@@ -1,6 +1,6 @@
 # Hey there! I'm Nico! 👋
 
-I’m a dedicated QA and software engineer with a proven track record in ensuring software quality through a blend of manual testing and automation. I approach testing and development with a holistic perspective, striving for seamless user experiences. My background includes experience in teaching, curriculum development, community engagement, and program management. I'm passionate about fostering community and cultivating a culture of continuous learning and innovation. If you're committed to building teams that turn ideas into impactful solutions, let's connect!
+I'm a QA Engineer & code tinkerer obsessed with quality. I build constantly—exploring tech, honing skills, and applying learnings through rigorous manual testing and smart automation. My background as an educator and program manager gives me a uniquely user-first testing mindset. Let's build something cool together, or just connect!
 
 ## Technology Stack:
 [![My Skills](https://skillicons.dev/icons?i=js,ts,py,react,nextjs,vite,nodejs,express,mongodb,postgres,mysql,cypress,selenium,postman,tailwind,figma&perline=8)](https://skillicons.dev)
