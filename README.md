@@ -9,6 +9,9 @@ I'm a QA Engineer & code tinkerer obsessed with quality. I build constantly—ex
 
 ## Some of my recent personal projects
 
+### 🌱 [SproutHub](https://sprout-hub.com/) // A modern plant care and collection tracker
+SproutHub is a full-stack plant care app built with Vite, React, and TypeScript. The frontend features a responsive, mobile-first UI using Tailwind CSS and shadcn-ui. Users can browse a rich plant catalog, track their personal collection, and receive smart care reminders. The app is designed for plant lovers who want a beautiful, intuitive experience for managing their indoor gardens. Robust code quality and future-proofing are ensured with ESLint, Prettier, and comprehensive testing with Jest and Playwright.
+
 ### 🏨 [LetMeBook](https://github.com/nicogarbaccio/hotel-booking-app) // A hotel-booking platform inspired by Booking.com
 LetMeBook is a full-stack hotel booking app using the MERN stack. The frontend is powered by Vite and is written entirely in TypeScript. The backend is fueled by Express and Node.js, while MongoDB is used for the database. Additionally, the app features a comprehensive suite of end-to-end tests written in Playwright, covering everything from authentication to booking a hotel, ensuring rock-solid reliability and a seamless user experience.
 #### [Live Site](https://letmebook.onrender.com/)
