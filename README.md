@@ -10,7 +10,7 @@ I'm a QA Engineer & code tinkerer obsessed with quality. I build constantly—ex
 ## Some of my recent personal projects
 
 ### 🌱 [SproutHub](https://github.com/nicogarbaccio/sprout-hub) // A modern plant care and collection tracker
-SproutHub is a full-stack plant care app built with Vite, React, and TypeScript. The frontend features a responsive, mobile-first UI using Tailwind CSS and shadcn-ui. Users can browse a rich plant catalog, track their personal collection, and receive smart care reminders. The app is designed for plant lovers who want a beautiful, intuitive experience for managing their indoor gardens. Robust code quality and future-proofing are ensured with ESLint, Prettier, and comprehensive testing with Jest and Playwright.
+SproutHub is a full-stack plant care app built with Vite, React, and TypeScript. The frontend features a responsive, mobile-first UI using Tailwind CSS and shadcn-ui. Supabase powers authentication and backend services, enabling secure user accounts and real-time data. Users can browse a rich plant catalog, track their personal collection, and receive smart care reminders. The app is designed for plant lovers who want a beautiful, intuitive experience for managing their indoor gardens. Comprehensive testing with Jest and Playwright is planned to ensure reliability.
 #### [Live site](https://sprout-hub.com/)
 
 ### 🏨 [LetMeBook](https://github.com/nicogarbaccio/hotel-booking-app) // A hotel-booking platform inspired by Booking.com
