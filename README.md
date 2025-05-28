@@ -20,4 +20,4 @@ LetMeBook is a full-stack hotel booking app using the MERN stack. The frontend i
 
 ## How to reach me
 #### 📫  Drop me an [email](mailto:garbaccio20@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/nicogarbaccio/)
-#### 💻 Check out my [portfolio](https://portfolio-nicogarbaccio.vercel.app/)!
+#### 💻 Check out my [portfolio](https://portfolio-nicogarbaccios-projects.vercel.app/)!
