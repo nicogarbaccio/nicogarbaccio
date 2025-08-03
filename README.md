@@ -17,7 +17,7 @@ SproutHub is a full-stack plant care app built with Vite, React, and TypeScript.
 PaperEdge is a full-stack betting management application built with Vite, React, and TypeScript. The frontend delivers a responsive, mobile-first experience using Tailwind CSS and Radix UI components. Supabase provides robust authentication and real-time database services, ensuring secure user accounts and instant data synchronization.
 
 Users can create multiple betting notebooks to organize different strategies or sports, track individual wagers with custom fields, and analyze performance through detailed analytics and calendar views. The platform features advanced betting calculators for arbitrage opportunities, parlay calculations, and unit-based betting strategies. Interactive charts and profit/loss visualizations help users identify trends and optimize their betting approach.
-#### [Live site](https://http://paperedge.bet/)
+#### [Live site](http://paperedge.bet/)
 
 ## How to reach me
 #### 📫  Drop me an [email](mailto:garbaccio20@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/nicogarbaccio/)
