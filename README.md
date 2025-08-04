@@ -10,8 +10,9 @@ I'm a Software Engineer, QA Engineer, and educator with a passion for quality an
 ## Some of my recent personal projects
 
 ### 🌱 [SproutHub](https://github.com/nicogarbaccio/sprout-hub) // A modern plant care and collection tracker
-SproutHub is a full-stack plant care app built with Vite, React, and TypeScript. The frontend features a responsive, mobile-first UI using Tailwind CSS and shadcn-ui. Supabase powers authentication and backend services, enabling secure user accounts and real-time data. Users can browse a rich plant catalog, track their personal collection, and receive smart care reminders. The app is designed for plant lovers who want a beautiful, intuitive experience for managing their indoor gardens. Comprehensive testing with Jest and Playwright ensures reliability.
-#### [Live site](https://sprout-hub.com/)
+SproutHub is a full-stack plant care application built with Vite, React, and TypeScript. The frontend delivers a responsive, mobile-first experience using Tailwind CSS and shadcn-ui components. Supabase provides robust authentication and real-time database services, ensuring secure user accounts and instant data synchronization.
+
+Users can browse an extensive plant catalog with detailed care information, track their personal plant collection with custom notes and care schedules, and receive smart watering reminders based on plant-specific needs. The platform features comprehensive plant care tracking including watering history, growth monitoring, and room-based organization. Interactive plant cards, detailed care guides, and mobile-optimized features help users maintain healthy indoor gardens with confidence.#### [Live site](https://sprout-hub.com/)
 
 ### 📊 [PaperEdge](https://github.com/nicogarbaccio/sprout-hub) // A comprehensive sports betting tracker and analytics platform
 PaperEdge is a full-stack betting management application built with Vite, React, and TypeScript. The frontend delivers a responsive, mobile-first experience using Tailwind CSS and Radix UI components. Supabase provides robust authentication and real-time database services, ensuring secure user accounts and instant data synchronization.
