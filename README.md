@@ -23,4 +23,4 @@ Users can create multiple betting notebooks to organize different strategies or 
 
 ## How to reach me
 #### 📫  Drop me an [email](mailto:garbaccio20@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/nicogarbaccio/)
-#### 💻 Check out my [portfolio](https://portfolio-nicogarbaccios-projects.vercel.app/)!
+#### 💻 Check out my [portfolio](https://portfolio-nicogarbaccio.netlify.app/)!
