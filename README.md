@@ -9,8 +9,8 @@ I'm a Software Engineer, QA Engineer, and educator with a passion for quality an
 
 ## Some of my recent personal projects
 
-### 🌱 [SproutHub](https://github.com/nicogarbaccio/sprout-hub) // A modern plant care and collection tracker
-SproutHub is a full-stack plant care application built with Vite, React, and TypeScript. The frontend delivers a responsive, mobile-first experience using Tailwind CSS and shadcn-ui components. Supabase provides robust authentication and real-time database services, ensuring secure user accounts and instant data synchronization.
+### 🌱 [sprouthub](https://github.com/nicogarbaccio/sprout-hub) // A modern plant care and collection tracker
+sprouthub is a full-stack plant care application built with Vite, React, and TypeScript. The frontend delivers a responsive, mobile-first experience using Tailwind CSS and shadcn-ui components. Supabase provides robust authentication and real-time database services, ensuring secure user accounts and instant data synchronization.
 
 Users can browse an extensive plant catalog with detailed care information, track their personal plant collection with custom notes and care schedules, and receive smart watering reminders based on plant-specific needs. The platform features comprehensive plant care tracking including watering history, growth monitoring, and room-based organization. Interactive plant cards, detailed care guides, and mobile-optimized features help users maintain healthy indoor gardens with confidence.
 #### [🌐 Live site](https://sprout-hub.com/)
