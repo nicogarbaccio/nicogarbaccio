@@ -1,6 +1,6 @@
 # Hey there! I'm Nico! 👋
 
-I'm a Software Engineer, QA Engineer, and educator with a passion for quality and continuous learning. I love building things—whether it's code, curriculum, or testing strategies. My experience in program management and education brings a user-centered perspective to everything I create and test. I'm always exploring new tech and sharing knowledge along the way. Let's build something cool together, or just connect! 
+I'm a QA Engineer, code tinkerer, and educator with a passion for quality and continuous learning. I love building things—whether it's code, curriculum, or testing strategies. My experience in program management and education brings a user-centered perspective to everything I create and test. I'm always exploring new tech and sharing knowledge along the way. Let's build something cool together, or just connect! 
 
 ## Technology Stack:
 [![My Skills](https://skillicons.dev/icons?i=js,ts,py,react,nextjs,vite,nodejs,express,mongodb,postgres,mysql,cypress,selenium,postman,tailwind,figma&perline=8)](https://skillicons.dev)
