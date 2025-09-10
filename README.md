@@ -13,7 +13,7 @@ I'm a QA Engineer, code tinkerer, and educator with a passion for quality and co
 sprouthub is a full-stack plant care application built with Vite, React, and TypeScript. The frontend delivers a responsive, mobile-first experience using Tailwind CSS and shadcn-ui components. Supabase provides robust authentication and real-time database services, ensuring secure user accounts and instant data synchronization.
 
 Users can browse an extensive plant catalog with detailed care information, track their personal plant collection with custom notes and care schedules, and receive smart watering reminders based on plant-specific needs. The platform features comprehensive plant care tracking including watering history, growth monitoring, and room-based organization. Interactive plant cards, detailed care guides, and mobile-optimized features help users maintain healthy indoor gardens with confidence.
-#### [🌐 Live site](https://sprout-hub.com/)
+#### [🌐 Live site](https://sprouthub.app/)
 
 ### 📊 [PaperEdge](https://github.com/nicogarbaccio/sprout-hub) // A comprehensive sports betting tracker and analytics platform
 PaperEdge is a full-stack betting management application built with Vite, React, and TypeScript. The frontend delivers a responsive, mobile-first experience using Tailwind CSS and Radix UI components. Supabase provides robust authentication and real-time database services, ensuring secure user accounts and instant data synchronization.
