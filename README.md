@@ -3,7 +3,7 @@
 I'm a QA Engineer, code tinkerer, and educator currently working as a Test Engineer at BetMGM. I love building things—whether it's code, curriculum, or testing strategies. My experience in program management and education brings a user-centered perspective to everything I create and test. I'm always exploring new tech and sharing knowledge along the way. Let's build something cool together, or just connect! 
 
 ## Technology Stack:
-[![My Skills](https://skillicons.dev/icons?i=js,ts,py,react,nextjs,vite,nodejs,express,mongodb,postgres,supabase,cypress,selenium,postman,tailwind,figma&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,py,react,nextjs,vite,nodejs,express,mongodb,postgres,supabase,cypress,selenium,postman,vitest,tailwind&perline=8)](https://skillicons.dev)
 <div>
 </div>
 
