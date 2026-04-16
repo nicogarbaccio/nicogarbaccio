@@ -1,6 +1,6 @@
 # Hey there! I'm Nico! 👋
 
-I'm a QA Engineer, code tinkerer, and educator currently working as a Test Engineer at BetMGM. I love building things—whether it's code, curriculum, or testing strategies. My experience in program management and education brings a user-centered perspective to everything I create and test. I'm always exploring new tech and sharing knowledge along the way. Let's build something cool together, or just connect! 
+I’m a Test Engineer at BetMGM, a code tinkerer, and an educator at heart who brings a user-centered perspective to the technical world of iGaming. I have a genuine love for the casino industry and the complex tech that powers it—from the intricate math of game mechanics to the regulatory logic that keeps everything moving. I thrive on the process of building things, breaking them, and investigating the "why" behind a failure to ensure the final product is as resilient as possible. My background in program management and education fuels my drive to explore new tech and share those findings to help build more engaging, stable gaming experiences. I’m always looking for the next cool thing to build or a great person to connect with, so let’s chat!
 
 ## Technology Stack:
 [![My Skills](https://skillicons.dev/icons?i=js,ts,py,react,nextjs,vite,nodejs,express,mongodb,postgres,supabase,cypress,selenium,postman,vitest,tailwind&perline=8)](https://skillicons.dev)
